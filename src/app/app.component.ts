@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'SIC-proyecto-angular-david-latorre';
+  title = 'SIC-proyecto-angular-david-latorre Test';
 }
